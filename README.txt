@@ -1,7 +1,7 @@
 Chrome Shortcut Overlay Extension
 ==================================
 
-A Chrome extension that provides keyboard shortcuts to interact with web page elements using customizable overlay labels.
+A Chrome extension that provides 2-letter-key shortcuts to interact with web page elements using customizable overlay labels.
 
 INSTALLATION
 ------------
@@ -71,12 +71,3 @@ VERSION INFORMATION
 Version: 1.0
 Release Date: 2025
 Compatibility: Chrome browsers with Manifest V3 support
-
-SUPPORT
--------
-For issues or questions, check the Chrome Extensions developer console:
-1. Right-click the extension icon
-2. Select "Inspect popup" 
-3. Check the Console tab for any error messages
-
-Built with accessibility in mind - text contrast automatically adjusts for optimal readability.
