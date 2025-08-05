@@ -48,14 +48,6 @@
 4. Press Escape or click anywhere to hide the overlay  
 5. Scrolling automatically hides the overlay  
 
-## CUSTOMIZATION
-Click the extension icon in your toolbar to open settings:
-
-- **Keyboard Shortcut:** Record a new shortcut combination  
-- **Font Size:** Adjust text size in the boxes (8-32px)  
-- **Box Size:** Adjust the size of shortcut boxes (12-80px)  
-- **Box Color:** Choose custom colors with the color picker or hex input  
-
 ## IMPORTANT NOTES
 - Avoid using shortcuts that conflict with browser shortcuts (Ctrl+F, Ctrl+T, etc.)  
 - Avoid OS shortcuts (Ctrl+Alt+Del, Win+R, etc.)  
@@ -86,5 +78,6 @@ Safe options that typically don't conflict:
 - **Version:** 1.0  
 - **Release Date:** 2025  
 - **Compatibility:** Chrome browsers with Manifest V3 support  
+
 
 
