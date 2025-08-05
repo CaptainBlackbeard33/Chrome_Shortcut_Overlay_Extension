@@ -1,4 +1,13 @@
-# Chrome Shortcut Overlay Extension
+<table align="center">
+  <tr>
+    <td style="vertical-align: middle; padding-right: 10px;">
+      <img src="icons/icon128.png" alt="Extension Logo" width="64" height="64">
+    </td>
+    <td style="vertical-align: middle;">
+      <h1><strong>Chrome Shortcut Overlay Extension</strong></h1>
+    </td>
+  </tr>
+</table>
 
 **This is a Chrome extension that uses a toggle to show an overlay of all clickable links on your webpage. You can then navigate through links using a 2-letter key sequence.**
 
@@ -77,3 +86,4 @@ Safe options that typically don't conflict:
 - **Version:** 1.0  
 - **Release Date:** 2025  
 - **Compatibility:** Chrome browsers with Manifest V3 support  
+
