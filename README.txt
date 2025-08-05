@@ -1,6 +1,5 @@
 # Chrome Shortcut Overlay Extension
-
-
+===================================
 A Chrome extension that provides 2-letter-key shortcuts to interact with web page elements using customizable overlay labels.
 
 INSTALLATION
