@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-**This is a Chrome extension that uses a toggle to show an overlay of all clickable links on your webpage. You can then navigate through links using a 2-letter key sequence.**
+**This is a Chrome extension that uses a toggle to show an overlay of all clickable links on your webpage. You can then navigate through links using a 2 letter-key sequence.**
 
 ## FEATURES
 - Customizable keyboard toggle (default: Ctrl + Alt)  
@@ -86,4 +86,5 @@ Safe options that typically don't conflict:
 - **Version:** 1.0  
 - **Release Date:** 2025  
 - **Compatibility:** Chrome browsers with Manifest V3 support  
+
 
